@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Inventory Management**
 
-- 🌱 I’m currently **Collections**
+- 🌱 I’m currently working on  **Android**
 
 - 💬 Ask me about **C ,C++ ,Core Java ,HTML5,CSS ,J2EE**
 
