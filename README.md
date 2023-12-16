@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NARAYAN THAKARE</h1>
+<h1 align="center">Hola 👋, I'm NARAYAN THAKARE</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
