@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on  **Android**
 
-- 💬 Ask me about **C ,C++ ,Core Java ,HTML5,CSS ,J2EE**
+- 💬 Ask me about **C, C++, Core Java, HTML5, CSS, J2EE, PHP, XAMPP**
 
 - 📫 How to reach me **narayan111thakare@gmail.com**
 
