@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **POWERHUB GYM CONTROL SPRING BOOT**
 
-- 🌱 I’m currently working on  **Android**
+- 🌱 I’m currently working on  **Android and Spring Boot**
 
 - 💬 Ask me about **C, C++, Core Java, HTML5, CSS, J2EE, PHP, XAMPP**
 
