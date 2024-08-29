@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-thakare&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-thakare" /> </p>
 
-- 🔭 I’m currently working on **POWERHUB GYM CONTROL SPRING BOOT**
+- 🔭 I’m currently working on **The Java Android App**
 
 - 🌱 I’m currently working on  **Android and Spring Boot**
 
